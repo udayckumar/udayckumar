@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub repository!
+
+- 🔭 I’m currently working on Java & Python based project
+- 🌱 I’m currently learning on low level designing
+- 🤔 I’m looking for help with scalable product development
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/udaychandrakumar/)
