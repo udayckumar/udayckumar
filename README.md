@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub repository!
 
-- 🔭 I’m currently working on Java & Python based project
+- 🔭 I’m currently working on Java & Python based project(s)
 - 🌱 I’m currently learning on low level designing
 - 🤔 I’m looking for help with scalable product development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/udaychandrakumar/)
