@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 Welcome to my GitHub repository!
 
 - 🔭 I’m currently working on Java & Python based project(s)
-- 🌱 Learning on low level designing
-- 🤔 Looking for help with scalable product development and a friend to practice DSA problems together!
+- 🌱 Learning on GenerativeAI, scalability and performance improvement of distributed applications
+- 🤔 Looking for peers for new product development!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/udaychandrakumar/)
