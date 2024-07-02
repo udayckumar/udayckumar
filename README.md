@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub repository!
 
-- 🔭 I’m actively working primarily on Java & Python tech stack
-- 🌱 Working on GenerativeAI based offerings + scalability and performance improvement of distributed systems
+- 🔭 I’m actively building large scale distributed systems on Java & Python tech stack
+- 🌱 Presently working on GenerativeAI powered product ecosystems with high availability and scalable in nature
 - 🤔 Looking for peers for new product development!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/udaychandrakumar/)
+- 📫 DM me on LinkedIn for a chat: [LinkedIn](https://www.linkedin.com/in/udaychandrakumar/)
