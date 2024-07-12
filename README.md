@@ -18,7 +18,7 @@ I am Uday!
 
 Tech lead, polygot, learner. Love to paint, practice martial-arts and play outdoor games!
 
-An experienced software engineer with a get-it-done attitude towards any task at hand; leading multiple teams and wearing a new hat quite often - with ever growing curiousity.  Willing to learn and explore path untravelled.
+An experienced software engineer with a get-it-done attitude towards task at hand; leading multiple teams and wearing a new hat quite often - with ever growing curiousity.  Willing to learn and explore paths untravelled.
 
 
 - 🔭 I’m actively building large scale distributed systems, often using Java & Python tech stack
