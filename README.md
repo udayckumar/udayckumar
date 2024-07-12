@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 I am Uday!
 
-An experienced software engineer with proven experience as a developer and a get-it-done attitude towards any situation at hand; leading tech teams of various strength and wearing a new hat every now and then - with ever growing curiousity. Always willing to learn and know more on path untravelled.
+An experienced software engineer with proven experience as a developer and a get-it-done attitude towards any task at hand; leading multiple tech teams and wearing a new hat quiete often - with ever growing curiousity.  Willing to learn and explore path untravelled.
 
 
-- 🔭 I’m actively building large scale distributed systems on Java & Python tech stack
-- 🌱 Presently working on GenerativeAI powered product ecosystems with high availability and scalable in nature
-- 🤔 Looking for peers for new product development!
-- 📫 Want to catch up for a chat? DM me: [LinkedIn](https://www.linkedin.com/in/udaychandrakumar/)
+- 🔭 I’m actively building large scale distributed systems, often using Java & Python tech stack
+- 🌱 Presently working on GenerativeAI powered ecosystems with need for high availability and scalability at core
+- 🤔 Always looking for peers to connect, discuss and colaborate on ideas!
+- 📫 Want to catch up for a chat? DM me here: [LinkedIn](https://www.linkedin.com/in/udaychandrakumar/)
