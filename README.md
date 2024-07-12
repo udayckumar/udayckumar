@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Uday!
 
-An experienced software engineer with proven experience as a developer and a get-it-done attitude towards any task at hand; leading multiple tech teams and wearing a new hat quiete often - with ever growing curiousity.  Willing to learn and explore path untravelled.
+An experienced software engineer with a get-it-done attitude towards any task at hand; leading multiple teams and wearing a new hat quite often - with ever growing curiousity.  Willing to learn and explore path untravelled.
 
 
 - 🔭 I’m actively building large scale distributed systems, often using Java & Python tech stack
