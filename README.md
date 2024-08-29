@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Uday!
 
-Tech lead, polygot, learner. Love to paint, practice martial-arts and play outdoor games!
+Lead SDE, polygot, learner. Love to paint, practice martial-arts and play outdoor games!
 
 An experienced software engineer with a get-it-done attitude towards task at hand; leading multiple teams and wearing a new hat quite often - with ever growing curiousity.  Willing to learn and explore paths untravelled.
 
