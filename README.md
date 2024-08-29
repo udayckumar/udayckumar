@@ -24,4 +24,4 @@ An experienced software engineer with a get-it-done attitude towards task at han
 - 🔭 I’m actively building large scale distributed systems, often using Java & Python tech stack
 - 🌱 Presently working on GenerativeAI powered ecosystems with need for high availability and scalability at core
 - 🤔 Always looking for peers to connect, discuss and colaborate on ideas!
-- 📫 Want to catch up for a chat? DM me here: [LinkedIn](https://www.linkedin.com/in/udaychandrakumar/), [Telegram](https://t.me/ud_ay)
+- 📫 Want to catch up for a chat? DM me [Telegram](https://t.me/ud_ay)
